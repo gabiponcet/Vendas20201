@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vendas20201</string>
+    <string name="sing_in">Sing in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="todo">TODO</string>
+</resources>
